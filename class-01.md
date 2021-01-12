@@ -4,6 +4,7 @@
 
 * Introduction (pp.2-11)
 * HTML Chapter 1: “Structure” (pp.12-39)
+  * Basic HTML markup 
 * HTML Chapter 8: “Extra Markup” (p.176-199)  
 
 *notes:*  
@@ -19,12 +20,20 @@
         
         *escape characters  
         
-* HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-* HTML Chapter 18: “Process & Design” (pp.452-475)  
+* HTML Chapter 17: “HTML5 Layout” (pp 428-451)
+  * HTML5 introduces a new set of elements. eg.`<header> and <article>`
+  
+    *These new elements help describe the structure of the page and allow screen reading software to better navigate the page
+* HTML Chapter 18: “Process & Design” (pp.452-475)
 
-    *understanding end user
+  * understanding end user
+  * getting your message across using design
+  * understanding visual hierarchy
 
 ### Duckett JS Book
 * Introduction
-* JS Chapter 1: “The ABC of Programming” (pp.11-52) 
+* JS Chapter 1: “The ABC of Programming” (pp.11-52)
+  * how to use `<script>` tag to link JS files
+  * JS allows programmers to write code that is interactive and can track user events to trigger tasks 
+
 
