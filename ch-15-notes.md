@@ -14,5 +14,5 @@ I cant quite get floats to work for me for some reason. need to keep working on 
 Fixed width layouts are usually accomplished by setting the width values in pixels. 
 Liquid layout widths are usually set to percentages.
 
-I did like the idea of the just using the 960 pixel wide / 12 column grid as a template
+I did like the idea of the just using the 960 pixel wide / DFD12 column grid as a template
 
