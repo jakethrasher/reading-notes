@@ -1,0 +1,5 @@
+### Ch 16
+Image sizing can be controlled using height and width properties. I like the idea of having a a few standard sizes and pretty much sticking to that. The float property can be used to align images to the left or right of their containing element. I've also started using margin: 0 auto, more to center images. The chapter also covers background images, how to repeat background images, and the background position property. 
+
+### Ch 19
+This chapter had some information that I've never really thought about. Google analytics is a service offered by google that allows you to track your websites visits, unique visists (total not including return visits), page views, pages per visit, average time on site, etc. All this information can be used to rate your SEO. There are several things you can do to improve optimization, such as including keywords in your title, headers, url, text, link text, image alt text, and page descriptions. 
