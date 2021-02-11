@@ -1,0 +1,30 @@
+class notes:
+* in react, when you change the state, the DOM updates automatcially.
+* **in other words, the render method runs again
+* when PROPS change, the dom updates with new props magically
+* this.setState() is how we change state to manipulate the DOM
+
+
+* parents pass props to children
+    * the parent can just give cash to the child
+    * parent has changed their own state (less money)
+* children use callbacks to manipulate parent state
+    * parent can give the child a debit card
+    * the child uses debit card to change the parents bank account
+    * parent needs to pass a function as a prop (like giving debit card to child)
+* presentational components and container components
+* when you refactor into components, you probably need to pass in some props
+
+* when making reusable componets have to ask
+    * whats in common (this is our FILE)
+        - for our lab both are drop downs
+    * whats different (these are our PROPS)
+        - currentValue (horns vs keyWord)
+        - options (drop down options must be passed as props)
+        - handleChange
+
+* in filter method if there are no keyWords and No horns return true
+* if there is a keyWord selected but there is no horns, filter match the keyWord
+* if there is a horn selected but no keyword, filter matching horns
+* if there is both than match on both
+* if all checks fail, do not include this item in our filtered array ( return false)
