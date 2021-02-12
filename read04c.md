@@ -12,4 +12,4 @@
 * commonly defined as a proxy for a value that will eventually become available
 * creating a promise with the promise API with the constructor new Promise()
 * promises allow you to defer further actions until after a previous action has completed
-* The Fetch API provides a JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses. It also provides a global fetch() method that provides an easy, logical way to fetch resources asynchronously across the network.
+* The Fetch API provides a way to deal with data from servers
