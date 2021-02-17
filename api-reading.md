@@ -1,0 +1,3 @@
+I enjoyed the article on googles search for the perfect team. Its all about trust. If people feel safe around each other, if they feel like their ideas are going to be heard and not shot down or made fun of, they are more likely to contribute to a project. The researchers in the article called it "psychological safety." Seems obvious, but its an interesting read.
+
+However, I did not enjoy the github REST reading. Too abstract for me to understand what he's talking about. Painful to read. Thats the problem with analogies. I don't learn that way. I'd rather read documentation or watch a tutorial about REST and how the web works. 
