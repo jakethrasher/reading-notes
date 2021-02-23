@@ -1,0 +1,27 @@
+CRUD
+* create
+    * POST/
+    * in SQL: insert into animals(name, color) values ('rocky','blue')
+    * in order to create an animal, we need name and color
+*update
+    * UPDATE talbe_name SET column1 = value1, column2= value2,...
+    WHERE condition; 
+
+* req.body is only available to us through POST and PUT requests
+* it is the way that we send data through on POST and PUT requests
+
+RETURNING * 
+    * only works with INSERT UPDATE and DELETE
+    * not needed with SELECT (.get route)
+
+* when you ad /:whatever to a path you you can access the whatever as a variable in the req.params
+
+#### MORE CRUD OPERATION
+    * INSERT INTO table (description) VALUES ()
+        * corresponds with HTTP /POST method
+    * SELECT...FROM
+        * HTTP /GET method
+    * UPDATE...SET..WHERE
+        * HTTP /PUT method
+    * DELETE..FROM table WHERE
+        * HTTP /DELETE method
